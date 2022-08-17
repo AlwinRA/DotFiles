@@ -1,0 +1,20 @@
+return require('packer').startup(function()
+    use 'wbthomason/packer.nvim'
+    use 'wlangstroth/vim-racket'
+    use 'sheerun/vim-polyglot'
+    use 'preservim/tagbar'
+    use 'luochen1990/rainbow'
+    use 'vim-syntastic/syntastic'
+    use 'gruvbox-community/gruvbox'
+    use 'dense-analysis/ale'
+    use 'vim-airline/vim-airline-themes'
+    use 'vim-airline/vim-airline'
+    use 'goolord/alpha-nvim'
+    use 'rcarriga/nvim-notify'
+    use 'MunifTanjim/nui.nvim'
+    use 'jiangmiao/auto-pairs'
+    use 'SirVer/ultisnips'
+    use 'ntpeters/vim-better-whitespace'
+    use "hrsh7th/nvim-cmp"
+    use "quangnguyen30192/cmp-nvim-ultisnips"
+end)
