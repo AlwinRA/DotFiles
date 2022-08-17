@@ -1,2 +1,2 @@
 # DotFiles
-Config for ,y dev env
+Config for my dev env
